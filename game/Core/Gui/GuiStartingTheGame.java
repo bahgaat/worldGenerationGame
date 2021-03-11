@@ -45,8 +45,9 @@ public class GuiStartingTheGame extends Gui {
 
         if (input.hasNextChar()) {
             char nextInputChar = input.getNextChar();
+            char nextInputCharInSensitive = Character.toUpperCase(nextInputChar);
             String convertCharToString = String.valueOf(nextInputChar);
-            if (nextInputChar == 'S') {
+            if (nextInputCharInSensitive == 'S') {
                 collectedSeed = true;
                 ifTypeIsKeyBoardDisplayToUser("To win the round you have to collect " +
                         "all flowers and go to locked door", type);
