@@ -6,6 +6,7 @@ import game.TileEngine.Tileset;
 
 import java.util.Map;
 
+/** A class which initiates the EvilPlayer (Monster) in the game. */
 public class EvilPlayer extends BasePlayer {
     private final TETile type = Tileset.MOUNTAIN;
     private final TETile typeToAttack = Tileset.PLAYER;

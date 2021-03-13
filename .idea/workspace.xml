@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa21366-0fcb-4786-9a21-53b85a110b12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/game/Core/Draw/DrawShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Draw/DrawShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Draw/DrawWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Draw/DrawWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingInputString.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingInputString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingKeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingKeyBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateClassDrawWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateClassDrawWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingInputString.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingInputString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingKeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingKeyBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/RenderWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/RenderWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Gui/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Gui/Gui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Gui/GuiInteractivityInTheGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Gui/GuiInteractivityInTheGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Gui/GuiStartingTheGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Gui/GuiStartingTheGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Input/InputDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Input/InputDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Input/InputString.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Input/InputString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Input/KeyBoardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Input/KeyBoardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/InteractivityInTheWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/InteractivityInTheWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/SaveAndLoadGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/SaveAndLoadGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/TileEngine/Tileset.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/TileEngine/Tileset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Players/BasePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Players/BasePlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Players/EvilPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Players/EvilPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Players/MainPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Players/MainPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,10 +1,9 @@
 package game.Core.Players;
 
 import game.Core.Position;
-import game.TileEngine.TETile;
 import game.TileEngine.Tileset;
 
-// the player has to now nothing about the world, so i have to make player isolate fro world
+/** A class which initiates the MainPlayer in the game. */
 public class MainPlayer extends BasePlayer {
 
     private int points;

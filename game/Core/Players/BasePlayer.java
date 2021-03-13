@@ -4,6 +4,7 @@ import game.TileEngine.TETile;
 
 import java.io.Serializable;
 
+/** Abstract class which is extended by both classes EvilPlayer and MainPlayer. */
 public abstract class BasePlayer implements Serializable {
     private final static String inputUp = "up";
     private final static String inputDown = "down";
