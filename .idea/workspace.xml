@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa21366-0fcb-4786-9a21-53b85a110b12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/game/Core/Players/BasePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Players/BasePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Players/EvilPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Players/EvilPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/Core/Players/MainPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Players/MainPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Draw/DrawWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Draw/DrawWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/EndTheGame/EndTheGameWhenUsingInputString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/EndTheGame/EndTheGameWhenUsingInputString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/EndTheGame/EndTheGameWhenUsingKeyBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/EndTheGame/EndTheGameWhenUsingKeyBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/GenerateClassDrawWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/GenerateClassDrawWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/GenerateWorldWhenUsingInputString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/GenerateWorldWhenUsingInputString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/GenerateWorldWhenUsingKeyBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/GenerateWorldWhenUsingKeyBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/RenderWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/GenerateTheWorld/RenderWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Gui/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Gui/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Input/InputString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Input/InputString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Players/BasePlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Players/BasePlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Players/EvilPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Players/EvilPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Players/MainPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Players/MainPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/Core/SaveAndLoadGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/Core/SaveAndLoadGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/game/TileEngine/Tileset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/game/TileEngine/Tileset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/libraries/javalib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/library-sp18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/library-sp18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/data/berkeley-2018-small.osm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/data/berkeley-2018-small.osm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/data/tiny-clean.osm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/data/tiny-clean.osm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/library-sp18/data/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/library-sp18/data/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proj2/proj2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proj2/proj2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/library-sp18/javalib" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3413793" />
@@ -96,30 +122,34 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1615401845902">
+    <state x="484" y="32" key="#Main_(1)" timestamp="1615640871911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615401845902" />
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1615478040470">
+    <state x="484" y="32" key="#Main_(1)/0.0.1536.824@0.0.1536.824" timestamp="1615640871911" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1615640968632">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
-    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1615478040470">
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615640968632" />
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1615640938780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
-    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1615478040470">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615640938780" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1615640938780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
-    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1615478040470">
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615640938780" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1615640938779">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1615401848729">
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615640938779" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1615640938780">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615401848729" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615640938780" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1615640972645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615640972645" />
     <state x="479" y="116" width="578" height="592" key="find.popup" timestamp="1615475900508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
