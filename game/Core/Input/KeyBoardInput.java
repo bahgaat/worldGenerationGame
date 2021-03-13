@@ -2,7 +2,7 @@ package game.Core.Input;
 import edu.princeton.cs.introcs.StdDraw;
 import java.io.Serializable;
 
-
+/** class used to interact with the what the user type (When the user decides to play the game by keyBoard). */
 public class KeyBoardInput implements InputDevice, Serializable {
     private String seed = "";
 

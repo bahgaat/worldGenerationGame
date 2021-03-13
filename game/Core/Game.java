@@ -14,8 +14,7 @@ import game.TileEngine.TETile;
 
 import java.io.Serializable;
 
-
-
+/** This is the class that takes over in either keyboard or input string mode. */
 public class Game implements Serializable {
     /* Feel free to change the width and height. */
     public static final int WIDTH = 100;
@@ -42,7 +41,7 @@ public class Game implements Serializable {
     
 
     /**
-     * Method used for autograding and testing the game code. The input string will be a series
+     * Method used for testing the game code. The input string will be a series
      * of characters (for example, "n123sswwdasdassadwas", "n123sss:q", "lwww". The game should
      * behave exactly as if the user typed these characters into the game after playing
      * playWithKeyboard. If the string ends in ":q", the same world should be returned as if the

@@ -9,8 +9,8 @@ import game.TileEngine.Tileset;
 
 import java.io.*;
 import java.util.*;
-/**
- * interactivity in the World. for eg, playing the game.
+/** any interactivity that happens in the random world is controlled by this class. Eg, moving the player,
+ * attacking the player and so on.
  */
 public class InteractivityInTheWorld implements Serializable {
     private boolean gameOver = false;

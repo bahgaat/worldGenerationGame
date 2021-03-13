@@ -2,6 +2,7 @@ package game.Core.Input;
 
 import java.io.Serializable;
 
+/** class used to interact with the what the user type (When the user decides to play the game by inputString). */
 public class InputString implements InputDevice, Serializable {
     private String input;
     private String seed = "";

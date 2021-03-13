@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+/** helper class which is used in RenderWorld class. */
 public class GenerateClassDrawWorld implements Serializable {
 
     protected DrawWorld initializeDrawWorld() {

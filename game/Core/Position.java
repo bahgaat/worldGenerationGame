@@ -1,15 +1,5 @@
 package game.Core;
-
-import game.TileEngine.TERenderer;
-import game.TileEngine.TETile;
-import edu.princeton.cs.introcs.StdDraw;
-
-import java.awt.*;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseMotionListener;
 import java.io.Serializable;
-
-import static com.sun.java.accessibility.util.AWTEventMonitor.addMouseMotionListener;
 
 
 public class Position implements Serializable {

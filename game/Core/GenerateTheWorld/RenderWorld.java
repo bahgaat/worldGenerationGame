@@ -9,6 +9,7 @@ import game.TileEngine.TETile;
 import java.io.Serializable;
 import java.util.ArrayList;
 
+/** This class is used to render (show) the random world to the user.*/
 public class RenderWorld<T> implements Serializable {
     private GenerateWorld generateTheWorld;
     private InputDevice input;

@@ -4,6 +4,7 @@ import game.Core.Draw.DrawWorld;
 import game.TileEngine.TERenderer;
 import java.io.Serializable;
 
+/** helper class which is used in RenderWorld class to draw the world when using keyBoard. */
 public class GenerateWorldWhenUsingKeyBoard implements GenerateWorld, Serializable {
     private TERenderer ter;
 

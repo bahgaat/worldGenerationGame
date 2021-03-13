@@ -13,7 +13,7 @@ import game.TileEngine.TETile;
 import game.TileEngine.Tileset;
 import java.util.ArrayList;
 
-
+/** The gui which appears to the user while playing the game. */
 public class GuiInteractivityInTheGame<T> extends Gui {
     private InteractivityInTheWorld interactivityInTheWorld;
     private DrawWorld drawWorld;

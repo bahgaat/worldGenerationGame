@@ -5,6 +5,7 @@ import edu.princeton.cs.introcs.StdDraw;
 import java.awt.*;
 import java.io.Serializable;
 
+/** Abstract class Gui which is extended by both GuiStartingTheGame and GuiInteractivityInTheGame. */
 public abstract class Gui implements Serializable {
 
     /* draw to the user either the basic Ui if the argument passed to drawFrame was "Ui" or draw the passed argument. */

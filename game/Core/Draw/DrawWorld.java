@@ -7,8 +7,7 @@ import java.io.Serializable;
 import java.util.*;
 
 
-/* draw the random world. I have divided drawing the world into 2 parts, and every part into 3 parts. */
-/* don't use static unless you want it, don't make it the default */
+/** draw the random world. I have divided drawing the world into 2 parts, and every part into 3 parts. */
 public class DrawWorld implements Serializable {
     private final String positive = "positive";
     private final String negative = "negative";

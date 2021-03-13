@@ -4,11 +4,11 @@ import java.util.Map;
 
 import java.util.ArrayList;
 
-/* drawing shapes. for example, L, squares, rectangles in many different forms. To initiate drawShapes,
-you have to pass to the it a map which has positions as keys such as 'x' and 'y' and an empty arrayList as values.
+/** drawing shapes. for example, L, squares, rectangles in many different forms. To initiate drawShapes,
+you have to pass to it a map which has positions as keys such as 'x' and 'y' and an empty arrayList as values.
 What drawShapes do is that if you call it with any method. For eg, drawLine it puts
-in the arrayList of each key in the map the needed integers and then When drawing ,the other class that called drawShapes
-can get the map. */
+in the arrayList of each key in the map the needed integers and then when drawing ,the other class that called
+ drawShapes can get the map. */
 public class DrawShapes implements Serializable {
     private final String positive = "positive";
     private final String negative = "negative";

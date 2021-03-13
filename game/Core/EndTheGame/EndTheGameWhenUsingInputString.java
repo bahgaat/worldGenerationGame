@@ -5,6 +5,7 @@ import game.Core.InteractivityInTheWorld;
 
 import java.io.Serializable;
 
+/** ask if the game is ended when using inputString. */
 public class EndTheGameWhenUsingInputString implements Serializable, EndTheGame {
     private InputString inputString;
 

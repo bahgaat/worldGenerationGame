@@ -1,6 +1,8 @@
 package game.Core.Input;
 
-
+/** Interface to interact with what the user types. The interface is implemented by both classes
+ * InputString and KeyBoardInput.
+ */
 public interface InputDevice {
 
     boolean hasNextChar();

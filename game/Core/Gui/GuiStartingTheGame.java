@@ -8,12 +8,12 @@ import game.Core.SaveAndLoadGame;
 import game.TileEngine.TERenderer;
 import game.TileEngine.TETile;
 
-
+/** The gui which appears to the user when starting the game. */
 public class GuiStartingTheGame extends Gui {
 
-
-    /* read input , and make decision based on the input. If the input is 'N', get seed from the input and draw the world
-    with its  components and then play the game. if the input is 'L', load all the saved objects and play the game. */
+    /* read input , and make decision based on the input. If the input is 'N',
+    get seed from the input and draw theworld with its  components and then play the game.
+    if the input is 'L', load all the saved objects and play the game. */
     public TETile[][] readTheInputBeforeStartingTheGame(InputDevice input, GenerateWorld generateTheWorld,
                                                         SaveAndLoadGame saveAndLoadGame, TERenderer ter,
                                                         EndTheGame endTheGame, String type) {

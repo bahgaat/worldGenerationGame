@@ -2,6 +2,7 @@ package game.Core;
 import java.io.*;
 import java.util.ArrayList;
 
+/** This is the class that used to save and load the game. */
 public class SaveAndLoadGame<T> implements Serializable {
     private String fileNameToBeSaved;
 

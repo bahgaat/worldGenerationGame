@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fa21366-0fcb-4786-9a21-53b85a110b12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/game/Core/Draw/DrawShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Draw/DrawShapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Draw/DrawWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Draw/DrawWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingInputString.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingInputString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingKeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/EndTheGame/EndTheGameWhenUsingKeyBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateClassDrawWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateClassDrawWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingInputString.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingInputString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingKeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/GenerateWorldWhenUsingKeyBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/GenerateTheWorld/RenderWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/GenerateTheWorld/RenderWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Gui/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Gui/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Gui/GuiInteractivityInTheGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Gui/GuiInteractivityInTheGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Gui/GuiStartingTheGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Gui/GuiStartingTheGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Input/InputDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Input/InputDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Input/InputString.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Input/InputString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Input/KeyBoardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Input/KeyBoardInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/InteractivityInTheWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/InteractivityInTheWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/Core/SaveAndLoadGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/Core/SaveAndLoadGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/TileEngine/Tileset.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/TileEngine/Tileset.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pZo11cDQfuvzNMSjv01BKgSfH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3413793" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Core.Main" />
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byog.Core.Main" />
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byog.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fa21366-0fcb-4786-9a21-53b85a110b12" name="Default Changelist" comment="" />
+      <created>1615399754068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615399754068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1615401845902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615401845902" />
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1615478040470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1615478040470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1615478040470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1615478040470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615478040470" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1615401848729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615401848729" />
+    <state x="479" y="116" width="578" height="592" key="find.popup" timestamp="1615475900508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="116" width="578" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1615475900508" />
+  </component>
+</project>
