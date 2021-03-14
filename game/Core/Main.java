@@ -5,7 +5,7 @@ import game.TileEngine.TETile;
 import java.io.Serializable;
 
 /** This is the main entry point for the program. This class simply parses
- *  the command line inputs, and lets the game.Core.Game class take over
+ *  the command line inputs, and lets the game.Core.Gsame class take over
  *  in either keyboard or input string mode.
  */
 public class Main implements Serializable {
