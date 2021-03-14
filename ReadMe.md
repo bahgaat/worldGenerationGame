@@ -47,8 +47,3 @@ Passing the string “N543SSSSSSWW” corresponds to the user starting a game wi
 
 ![](images/image7.PNG)
  
-
- 
- 
-for more information : https://sp18.datastructur.es/materials/proj/proj2/proj2
-
