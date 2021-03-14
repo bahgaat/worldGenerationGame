@@ -38,12 +38,16 @@ after that you will play the game with the rules I have mentioned above. You can
 save your efforts any time in the game by pressing q. And then when starting again You have to press L to load the game. In that way you will be starting in the same 
 state that you left the game in it.
 
-- The second way in which you can play the game is by using inputString. Go to Main.java and run it by passing String argument to it.
--
- For example, Passing the string “N543SSSSSSWW” corresponds to the user starting a game with the seed 543, then moving down 5 times, then up twice. In this way the game will be showed to you static and you can't play like the first way.
+- The second way in which you can play the game is by using inputString (This way is very beneficial in testing). Go to Main.java and run it by passing String argument to it.
+For example, Passing the string “N543SSSSSSWW”. 
+
+![](images/image6.PNG)
+
+Passing the string “N543SSSSSSWW” corresponds to the user starting a game with the seed 543, then moving down 5 times, then up twice. In this way the game will be showed to you static and you can't play like the first way.
+
+![](images/image7.PNG)
  
 
- 
  
  
 for more information : https://sp18.datastructur.es/materials/proj/proj2/proj2
