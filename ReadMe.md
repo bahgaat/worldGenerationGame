@@ -32,7 +32,7 @@ The seed can be any number starts from 0 to 9,223,372,036,854,775,807 (Every num
 
 Then a description of how to win the round will be displayed to you, and then the game will start.
 
-![](images/image4.PNG)
+![](images/image5.PNG)
 
 after that you will play the game with the rules I have mentioned above. You can quit the game and
 save your efforts any time in the game by pressing q. And then when starting again You have to press L to load the game. In that way you will be starting in the same 
