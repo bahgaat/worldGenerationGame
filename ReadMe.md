@@ -39,6 +39,7 @@ save your efforts any time in the game by pressing q. And then when starting aga
 state that you left the game in it.
 
 - The second way in which you can play the game is by using inputString. Go to Main.java and run it by passing String argument to it.
+-
  For example, Passing the string “N543SSSSSSWW” corresponds to the user starting a game with the seed 543, then moving down 5 times, then up twice. In this way the game will be showed to you static and you can't play like the first way.
  
 
