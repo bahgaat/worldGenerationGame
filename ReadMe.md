@@ -30,7 +30,7 @@ The seed can be any number starts from 0 to 9,223,372,036,854,775,807 (Every num
 
 ![](images/image3.PNG)
 
-Then a description of how to win the round will be displayed to you, and then the game will start.
+After pressing s, a description of how to win the round will be displayed to you and then the game will start.
 
 ![](images/image5.PNG)
 
