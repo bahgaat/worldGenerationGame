@@ -18,7 +18,7 @@ and the game becomes more difficult.
 How to play the game:
 - The game can be played by 2 different ways. The first way is by using keyboard. Simply go to Main.java and run it without passing any arguments. In this case,
 You have to choose between NewGame, LoadGame, and Quit.
-![](
+![](images/image1.PNG)
 
 
 To start NewGame press N, To LoadGame press L, To Quit press Q. If it is your first time playing the
